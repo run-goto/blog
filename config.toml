@@ -1,0 +1,9 @@
+baseURL = "https://github.com/ucmm/me"
+title = "My Blog"
+theme = "hugo-bearblog"
+
+# 以下配置可选
+copyright = "© 2025 My Blog"
+
+[params]
+  description = "My personal blog"
